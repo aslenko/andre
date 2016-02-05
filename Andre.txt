@@ -1,3 +1,4 @@
 Initialized!
 Edited on 'master' locally!
 Edited on 'andre - edits 1' branch
+Edited on 'master' remotely!
